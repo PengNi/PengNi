@@ -1,5 +1,17 @@
 ### Hi there 👋
 
+![](https://visitor-badge.glitch.me/badge?page_id=github.com/PengNi)
+
+I am Peng Ni.
+
+<img src= 
+"https://github-readme-stats.vercel.app/api?username=PengNi&show_icons=true" 
+         align="left"> 
+         
+<img src= 
+"https://github-readme-stats.vercel.app/api/top-langs/?username=PengNi&layout=compact" 
+         align="left"> 
+
 <!--
 **PengNi/PengNi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
